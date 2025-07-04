@@ -1,1 +1,1 @@
-# Springboot_jobApp_databaseconnectivity
+# Springboot_jobApp_database_connectivity
